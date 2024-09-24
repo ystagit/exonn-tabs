@@ -1,0 +1,28 @@
+.dropdown-container {
+    /*position: relative;*/
+}
+
+.dropdown-content {
+    position: absolute;
+    visibility: hidden;
+    z-index: 1000;
+    background-color: #FFF;
+    border-radius: 5px;
+    min-width: 160px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+    background-clip: padding-box;
+    padding: 5px;
+}
+
+.dropdown-scroll {
+    height: auto;
+    min-height: 50px;
+    max-height: 500px;
+    overflow-x: hidden;
+    scrollbar-color: #a3a3a3 #d3d3d3;
+    scrollbar-width: thin;
+}
+
+.dropdown-visible {
+    visibility: visible;
+}

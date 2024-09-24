@@ -1,0 +1,6 @@
+.tabs-wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    white-space: nowrap;
+}

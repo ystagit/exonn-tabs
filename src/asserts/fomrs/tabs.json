@@ -1,0 +1,83 @@
+{
+  "tabs": [
+    {
+      "link": "/tabs/warehouse-management",
+      "iconLib": "ri",
+      "icon": "RiArchiveLine",
+      "name": "Lagerverwaltung",
+      "componentName": "WAREHOUSE_MANAGEMENT"
+    },
+    {
+      "link": "/tabs/dashboard",
+      "icon": "MdOutlineDashboard",
+      "name": "Dashboard",
+      "componentName": "DASHBOARD"
+    },
+    {
+      "link": "/tabs/banking",
+      "icon": "MdOutlineAccountBalance",
+      "name": "Banking",
+      "componentName": "BANKING"
+    },
+    {
+      "link": "/tabs/telephones",
+      "icon": "MdOutlinePhoneInTalk",
+      "name": "Telefone"
+    },
+    {
+      "link": "/tabs/accounting",
+      "icon": "MdOutlinePersonAddAlt",
+      "name": "Accounting"
+    },
+    {
+      "link": "/tabs/sale",
+      "iconLib": "ri",
+      "icon": "RiStore2Line",
+      "name": "Verkauf"
+    },
+    {
+      "link": "/tabs/statistics",
+      "iconLib": "ri",
+      "icon": "RiPieChart2Line",
+      "name": "Statistik"
+    },
+    {
+      "link": "/tabs/post-office",
+      "icon": "MdMailOutline",
+      "name": "Post Office"
+    },
+    {
+      "link": "/tabs/administration",
+      "icon": "MdOutlineSettings",
+      "name": "Administration"
+    },
+    {
+      "link": "/tabs/help",
+      "iconLib": "ri",
+      "icon": "RiBookOpenLine",
+      "name": "Help"
+    },
+    {
+      "link": "/tabs/inventory",
+      "iconLib": "ri",
+      "icon": "RiBox3Line",
+      "name": "Warenbestand"
+    },
+    {
+      "link": "/tabs/shortlists",
+      "icon": "MdOutlineFormatListBulleted",
+      "name": "Auswahllisten"
+    },
+    {
+      "link": "/tabs/shopping",
+      "iconLib": "tb",
+      "icon": "TbShoppingCartCheck",
+      "name": "Einkauf"
+    },
+    {
+      "link": "/tabs/calculation",
+      "icon": "MdOutlineWysiwyg",
+      "name": "Rechn"
+    }
+  ]
+}

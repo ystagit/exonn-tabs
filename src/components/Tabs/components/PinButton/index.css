@@ -1,0 +1,10 @@
+.pin-button-container {
+    padding: 14px 16px;
+    color: #818181;
+}
+
+.pin-name {
+    padding-left: 4px;
+    font-weight: 600;
+    white-space: nowrap;
+}

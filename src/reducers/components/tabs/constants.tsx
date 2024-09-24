@@ -1,0 +1,13 @@
+export const TABS = {
+
+    INIT: 'INIT_TABS',
+
+    CHANGE_POSITION: 'CHANGE_POSITION',
+
+    UPDATE_PIN: 'UPDATE_PIN',
+
+    SELECT: 'SELECT_TAB',
+
+    HOVER: 'HOVER_TAB',
+
+}
